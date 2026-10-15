@@ -1,7 +1,5 @@
 # Rajya Sabha MH corpus — pipeline v2 (sansad.in API, full-corpus design)
 
-Read `REVISION_NOTES.md` for what changed and why; this file is the run order.
-
 ## Install
     pip install -r requirements.txt
     sudo apt install tesseract-ocr tesseract-ocr-hin poppler-utils
