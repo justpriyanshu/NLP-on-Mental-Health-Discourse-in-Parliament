@@ -1,0 +1,26 @@
+pandas>=2.0
+numpy
+requests
+truststore
+tqdm
+pdf2image
+pytesseract
+jiwer
+scipy
+statsmodels
+scikit-learn
+gensim
+bertopic>=0.16
+sentence-transformers
+umap-learn
+hdbscan
+ruptures
+matplotlib
+# machine translation (default backend)
+torch
+transformers>=4.40
+IndicTransToolkit
+sentencepiece
+# only if config.MT_BACKEND == "google"
+deep-translator
+# system packages: tesseract-ocr tesseract-ocr-hin poppler-utils (pdftotext, pdfinfo, pdf2image)
